@@ -667,11 +667,11 @@ npm start
 
 ```
 Farmer Account:
-- Mobile: +91-9876543210
+- Mobile: +91-xxxxxxxxx
 - OTP: 123456
 
 Buyer Account:
-- Mobile: +91-9876543211
+- Mobile: +91-yyyyyyyyyy
 - OTP: 123456
 
 Admin Account:
@@ -892,123 +892,6 @@ black backend/      # Backend
 ```
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2026 Smart Village AI Platform
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 👥 Contributors
-
-### Core Team
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/contributor1">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Dr. Priya Sharma</b></sub>
-      </a>
-      <br />
-      <sub>Project Lead & AI Architect</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contributor2">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Rajesh Kumar</b></sub>
-      </a>
-      <br />
-      <sub>Backend Lead</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contributor3">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Anita Desai</b></sub>
-      </a>
-      <br />
-      <sub>Frontend Lead</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contributor4">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Vikram Singh</b></sub>
-      </a>
-      <br />
-      <sub>ML Engineer</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/contributor5">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Meera Patel</b></sub>
-      </a>
-      <br />
-      <sub>DevOps Engineer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contributor6">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Arjun Reddy</b></sub>
-      </a>
-      <br />
-      <sub>Mobile Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contributor7">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Kavita Nair</b></sub>
-      </a>
-      <br />
-      <sub>UI/UX Designer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/contributor8">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Amit Verma</b></sub>
-      </a>
-      <br />
-      <sub>QA Engineer</sub>
-    </td>
-  </tr>
-</table>
-
-### Special Thanks
-
-- **Agricultural Experts**: Dr. Ramesh Chand, Dr. Sunita Rao
-- **Data Contributors**: Indian Council of Agricultural Research (ICAR)
-- **Beta Testers**: 500+ farmers from Punjab, Karnataka, and Maharashtra
-- **Open Source Community**: TensorFlow, React Native, and FastAPI teams
-
-### Become a Contributor
-
-Want to see your name here? Check out our [Contributing Guidelines](#-contributing) and start contributing today!
-
 ---
 
 ## 🙏 Acknowledgments
