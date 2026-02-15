@@ -28,8 +28,6 @@
 - [Demo Instructions](#-demo-instructions)
 - [Impact & Vision](#-impact--vision)
 - [Contributing](#-contributing)
-- [License](#-license)
-- [Contributors](#-contributors)
 - [Acknowledgments](#-acknowledgments)
 
 ---
