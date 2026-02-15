@@ -35,10 +35,6 @@ This project was built for a hackathon and focuses on real-world sustainability 
 
 ## 📱 Demo Preview
 
-![Architecture Diagram](./assets/architecture.png)  
-![Process Flow](./assets/process_flow.png)  
-![Farmer App Wireframe](./assets/farmer_wireframe.png)  
-
 ---
 
 ## 🧠 How It Works
