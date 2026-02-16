@@ -918,13 +918,6 @@ black backend/      # Backend
 - **FAQ**: [https://smartvillage.ai/faq](#)
 - **Community Forum**: [https://community.smartvillage.ai](#)
 - **Issue Tracker**: [GitHub Issues](https://github.com/your-org/smart-village-ai-platform/issues)
-
-### For Farmers
-
-- **Helpline**: 1800-XXX-XXXX (Toll-Free)
-- **WhatsApp**: +91-XXXXX-XXXXX
-- **Regional Support**: Available in Hindi, Tamil, Telugu, Kannada, Marathi
-
 ---
 
 ## 📊 Project Stats
